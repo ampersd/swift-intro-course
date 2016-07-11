@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx'>
+    <pages>
+        <page name='01 Introduction'/>
+        <page name='02 TypeAlias and Tuple'/>
+        <page name='03 Optional'/>
+        <page name='04 Operators and ranges'/>
+        <page name='05 Strings'/>
+        <page name='06 Arrays'/>
+        <page name='07 Dictionaries'/>
+        <page name='08 Branching'/>
+        <page name='09 Functions'/>
+        <page name='10 Parameter&apos;s series'/>
+        <page name='11 Variable parameters and inout'/>
+        <page name='12 Function Type'/>
+        <page name='13 Function Closure'/>
+        <page name='14 Closure'/>
+        <page name='15 Enumerator'/>
+        <page name='16 Enumerator Raw Values'/>
+        <page name='17 Classes and Structures'/>
+        <page name='18 Value Types vs Reference Types'/>
+        <page name='19 Computed Properties'/>
+        <page name='20 Property Observers '/>
+        <page name='21 Type Properties'/>
+        <page name='22 Type and Instance methods'/>
+        <page name='23 Mutating Methods'/>
+        <page name='24 Subscripts'/>
+        <page name='25 Inheritance'/>
+        <page name='26 Initializer'/>
+        <page name='27 Deinitializer'/>
+        <page name='28 ARC'/>
+        <page name='29 Extensions'/>
+        <page name='30 Protocols'/>
+        <page name='31 Generics'/>
+        <page name='32 Generic Type'/>
+    </pages>
+</playground>
